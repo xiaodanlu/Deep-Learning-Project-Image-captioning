@@ -28,7 +28,7 @@ There are two .ipynb files in  `code/` directory about our project and with diff
 
 With **Model.ipynb**: We use COCO dataset.
 
-With **Vit-GPT2 Model.ipynb**: We use Flickr8K dataset, and use pre-trained model: vit-GPT2 from [Huggingface](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning/tree/main). While the model inherently possesses advanced capabilities in processing images and generating text, **fine-tuning** allows it to refine these skills based on the particular characteristics and requirements of the Flickr8K dataset.
+With **Vit-GPT2 Model.ipynb**: We use [Flickr8K dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k), and use pre-trained model: vit-GPT2 from [Huggingface](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning/tree/main). While the model inherently possesses advanced capabilities in processing images and generating text, **fine-tuning** allows it to refine these skills based on the particular characteristics and requirements of the Flickr8K dataset.
 
 Our written-up is focus on the **Model.ipynb**.
 
