@@ -22,7 +22,15 @@ You will work within an **organized** repository and apply coding and developmen
 
 * The `data/` directory contains our data files. The Coco Dataset used in this project can be downloaded through the following [link](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset). "selected_data_10000.json" contains the final 10,000 images with captions that we chose to work on for our project.
 
+## Model
 
+There are two .ipynb files about our project and with different models: **Model.ipynb** and **Vit-GPT2 Model.ipynb**. 
+
+With **Model.ipynb**: We use COCO dataset.
+
+With **Vit-GPT2 Model.ipynb**: We use Flickr8K dataset, and use pre-trained model: vit-GPT2 from [Huggingface](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning/tree/main). While the model inherently possesses advanced capabilities in processing images and generating text, **fine-tuning** allows it to refine these skills based on the particular characteristics and requirements of the Flickr8K dataset.
+
+Our written-up is focus on the **Model.ipynb**.
 
 
 
