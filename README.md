@@ -24,7 +24,7 @@ You will work within an **organized** repository and apply coding and developmen
 
 ## Model
 
-There are two .ipynb files about our project and with different models: **Model.ipynb** and **Vit-GPT2 Model.ipynb**. 
+There are two .ipynb files in  `code/` directory about our project and with different models: **Model.ipynb** and **Vit-GPT2 Model.ipynb**. 
 
 With **Model.ipynb**: We use COCO dataset.
 
